@@ -21,7 +21,7 @@ FangLog [1.01] is a Python tool for scanning log files and detecting Indicators 
 
 ```sh
 git clone https://github.com/yourusername/FangLog.git
-cd FangLog
+cd FangLog/src
 ```
 
 - Python 3.7+ required.
