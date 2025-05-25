@@ -1,8 +1,6 @@
-# FangLog
-
 ![FangLog](media/fangloglogo.png)
 
-FangLog is a Python tool for scanning log files and detecting Indicators of Compromise (IOCs) such as malicious IP addresses, suspicious domains, file hashes, suspicious commands, base64 blobs, and persistence paths. It is designed for security analysts, incident responders, and anyone who needs to quickly triage logs for signs of compromise.
+FangLog [1.01] is a Python tool for scanning log files and detecting Indicators of Compromise (IOCs) such as malicious IP addresses, suspicious domains, file hashes, suspicious commands, base64 blobs, and persistence paths. It is designed for security analysts, incident responders, and anyone who needs to quickly triage logs for signs of compromise.
 
 ---
 
