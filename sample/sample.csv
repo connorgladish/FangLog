@@ -1,0 +1,11 @@
+timestamp,event,details
+2024-06-01 12:00:00,connection,src_ip=185.225.19.240 dst_ip=10.0.0.1
+2024-06-01 12:01:00,command,"powershell -nop -w hidden -enc aGVsbG8="
+2024-06-01 12:02:00,download,domain=malicious-domain.com
+2024-06-01 12:03:00,file,hash=9f0d1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcd
+2024-06-01 12:04:00,connection,src_ip=8.8.8.8 dst_ip=10.0.0.1
+2024-06-01 12:05:00,download,domain=google.com
+2024-06-01 12:06:00,command,"net user testuser testpass"
+2024-06-01 12:07:00,file,hash=1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef
+2024-06-01 12:08:00,path,"AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\evil.bat"
+2024-06-01 12:09:00,command,"curl http://phishing-site.net"
